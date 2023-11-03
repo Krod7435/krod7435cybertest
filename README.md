@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/Krod7435/ActiveDirectoryLabWork/edit/main/README.md)
 
   <h2>Certifications</h2>
  - [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/RNV782V8DAYM)
