@@ -7,7 +7,7 @@
   <h2>Certifications</h2>
  - [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/RNV782V8DAYM)
 
- <h2>📺 Popular YouTube Videos</h2>
+ <h2>📺 YouTube Videos</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
