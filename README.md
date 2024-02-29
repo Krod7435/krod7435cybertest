@@ -9,6 +9,8 @@
 
  <h2>📺 YouTube Videos</h2>
 
+ - [How To Create a Cybersecurity Internal Audit](https://www.youtube.com/watch?v=KZ9nXW2jIdI&t=23s)
+
 
 <h2> 🤳 Connect with me:</h2>
 
