@@ -10,7 +10,8 @@
  <h2>📺 YouTube Videos</h2>
 
  - [How To Create a Cybersecurity Internal Audit](https://www.youtube.com/watch?v=KZ9nXW2jIdI&t=23s)
- - [How To Analyze your first Packet Using Wireshark;Google Cybersecurity Lab Project](https://www.youtube.com/watch?v=B7qTDW-0_X0)
+ - [How To Analyze your first Packet Using Wireshark;Google Cybersecurity Certificate Program Lab Project](https://www.youtube.com/watch?v=B7qTDW-0_X0)
+ - [ How To Filter a SQL Query;Google Cybersecurity Certificate Program Linux Lab Project](https://www.youtube.com/watch?v=pQJb5Y_LwSQ)
 
 
 <h2> 🤳 Connect with me:</h2>
