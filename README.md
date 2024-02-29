@@ -7,6 +7,9 @@
   <h2>Certifications</h2>
  - [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/RNV782V8DAYM)
 
+ - [Google Cybersecurity Professional Certificate]
+(https://www.coursera.org/account/accomplishments/specialization/certificate/Z89KNXFKRN7V)
+
  <h2>📺 YouTube Videos</h2>
 
  - [How To Create a Cybersecurity Internal Audit](https://www.youtube.com/watch?v=KZ9nXW2jIdI&t=23s)
